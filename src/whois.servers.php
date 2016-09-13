@@ -33,6 +33,7 @@ return array(
     'jobs'     => 'gtld',
     'li'       => 'ch',
     'net'      => 'gtld',
+    'org'      => 'org',
     'pro'      => 'pro',
     'ru'      => 'ru',
     'su'       => 'ru',
