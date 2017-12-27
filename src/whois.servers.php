@@ -42,6 +42,7 @@ return array(
     'za.net'   => 'zanet',
     // Punicode
     'xn--p1ai' => 'ru',
+    'xn--80adxhks' => 'gtld',
 ),
 
 /* Non UTF-8 servers */
